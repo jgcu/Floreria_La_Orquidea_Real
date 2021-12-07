@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    background-color: #FEF9DB;
+}
+
+form{
+    padding: 10px;
+    text-align: center;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+h2{
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+}
+
+input,textarea,select{
+    width: 80%;
+    background-color: white;
+    text-align: center;
+    
+}
+
+input{
+    padding: 15px;
+}
+
+.noestirar{
+    width: auto;
+    cursor: pointer;
+}
+
+#reset{
+    padding: 10px;
+    background-color: red;
+}
+
+#envio{
+    padding: 10px;
+    background-color: red;
+    
+}
+
+#reset:hover{
+    
+    background-color: darkviolet;
+    color: white;
+    
+}
+
+#envio:hover{
+    
+    background-color: greenyellow;
+    color: white;
+    
+}

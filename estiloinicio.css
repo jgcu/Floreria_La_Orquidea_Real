@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    
+    background-color: #FEF9DB;
+    width: 100%;
+    
+}
+
+#encabezado{
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background-color: #C35A56;
+    color: #FBE471;
+}
+
+#encabezado img{
+    vertical-align:middle;
+}
+
+#bienvenida{
+    
+    margin: 0px;
+    width: 100%;
+    padding: 10px;
+    
+}
+
+#menu{
+    display: inline-block;
+    width: 100%;
+    background-color: #FBB5B7;
+    
+}
+
+#menu ul{  
+    
+   list-style: none;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    
+}
+#menu ul li { 
+    
+    display: inline-block;
+    font-weight: bolder;    
+    
+}
+
+#menu ul li a{  
+    
+    color:white;
+    text-decoration: none;
+    padding: 12px 100px;
+    display: block;
+    
+}
+
+#menu ul li a:hover{ 
+    
+    background-color: #FBDACB;
+    color: black;
+}
+
+#arreglos{
+    
+    width: 100%;
+    display: inline-block;
+    padding: 5px;
+    
+}
+
+#arreglos div{
+    
+    display: inline-block;
+    padding: 5px;
+    
+}
+
+#integrantes{
+    
+    background-color: #C35A56;
+    width: 100%;
+    display: inline-block;
+    padding: 10px;
+    
+}
+
+#integrantes div{
+    
+    padding: 10px;
+    display: inline-block;
+    
+}
+
+#integrantes div img{
+    
+    border-radius: 30px;
+    
+}
+
+#integrantes div p{
+    
+    color: white;
+    font-weight: bolder;
+    
+}
+
+#copy{
+    
+    font-size: 20px;
+    color: #FEF9DB;
+}
